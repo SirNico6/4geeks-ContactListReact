@@ -1,7 +1,7 @@
 # THE VARIABLE ENVIRONMENTS ARE THESE #
-REACT_APP_BASENAME=/
-REACT_APP_BASEURL=https://playground.4geeks.com/contact/
-REACT_APP_USERNAME=*YOUR USERNAME*
+- REACT_APP_BASENAME=/
+- REACT_APP_BASEURL=https://playground.4geeks.com/contact/
+- REACT_APP_USERNAME=*YOUR USERNAME*
 
 # WebApp boilerplate with React JS
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp.git)
